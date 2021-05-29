@@ -1,6 +1,8 @@
-### Hi there 👋
+<img src="https://github-readme-stats.vercel.app/api?username=SSahil404&&show_icons=true&title_color=00edc6&icon_color=33d900&text_color=daf7dc&bg_color=151515"/>
 
 <!--
+### Hi there 👋
+
 **SSahil404/SSahil404** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
