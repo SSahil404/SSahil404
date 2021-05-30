@@ -12,6 +12,7 @@
 <a src="https://www.npmjs.com/"><img src="https://img.icons8.com/color/48/000000/npm.png"/></a>
 <a src="https://www.java.com"><img src="https://img.icons8.com/color/48/000000/java.png"/></a>
 <a src="https://www.php.net/"><img src="https://img.icons8.com/color/48/000000/php.png"/></a>
+<a src="https://wwwgit-scm.com"><img src="https://img.icons8.com/color/48/000000/git.png"/></a>
 <a src="https://github.com/"><img src="https://img.icons8.com/color/48/000000/github--v1.png"/></a>
 <a src="https://www.w3schools.com/css/"><img src="https://img.icons8.com/color/48/000000/css3.png"/></a>
 <a src="https://www.w3schools.com/html/"><img src="https://img.icons8.com/color/48/000000/html-5.png"/></a>
