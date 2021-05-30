@@ -1,7 +1,7 @@
-# Hola! I am SSahil
+# Hi there 👋! I am SSahil
 
 
-## Connect With me <br><br> <p align="center"> <a href="https://www.linkedin.com/in/sazzadur-rahman-b69a461b8" target="_blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/linkedin.svg" alt="Sazzadur Rahman" height="25" width="25" /></a>&nbsp;&nbsp; <a href="https://twitter.com/SRahman7664?s=01" target="_blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="SRahmam7664" height="25" width="25" /></a>&nbsp;&nbsp; <a href="https://instagram.com/the_ssahil" target="_blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="the_ssahil" height="25" width="25" /></a>&nbsp;&nbsp; </p>
+## 💬 Connect With me <br><br> <p align="center"> <a href="https://www.linkedin.com/in/sazzadur-rahman-b69a461b8" target="_blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/linkedin.svg" alt="Sazzadur Rahman" height="25" width="25" /></a>&nbsp;&nbsp; <a href="https://twitter.com/SRahman7664?s=01" target="_blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="SRahmam7664" height="25" width="25" /></a>&nbsp;&nbsp; <a href="https://instagram.com/the_ssahil" target="_blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="the_ssahil" height="25" width="25" /></a>&nbsp;&nbsp; </p>
 
 #### 👨🏻‍💻 Currently working on:
 <a src="https://www.javascript.com/"><img src="https://img.icons8.com/color/48/000000/javascript.png"/></a>
@@ -11,7 +11,10 @@
 <a src="https://visualstudio.microsoft.com/"><img src="https://img.icons8.com/color/48/000000/visual-studio.png"/></a>
 <a src="https://www.npmjs.com/"><img src="https://img.icons8.com/color/48/000000/npm.png"/></a>
 <a src="https://www.java.com"><img src="https://img.icons8.com/color/48/000000/java.png"/></a>
+<a src="/"><img src="https://img.icons8.com/color/48/000000/c-plus-plus.png"/></a>
+<a src="/"><img src="https://img.icons8.com/color/48/000000/c.png"/></a>
 <a src="https://www.php.net/"><img src="https://img.icons8.com/color/48/000000/php.png"/></a>
+<a src="/"><img src="https://img.icons8.com/color/48/000000/mysql.png"/></a>
 <a src="https://wwwgit-scm.com"><img src="https://img.icons8.com/color/48/000000/git.png"/></a>
 <a src="https://github.com/"><img src="https://img.icons8.com/color/48/000000/github--v1.png"/></a>
 <a src="https://www.w3schools.com/css/"><img src="https://img.icons8.com/color/48/000000/css3.png"/></a>
