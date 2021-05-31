@@ -28,16 +28,8 @@
 <img src="https://img.icons8.com/color/48/000000/bootstrap.png"/>
 </div>
 
-<hr>
-<div align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=SSahil404&&show_icons=true&title_color=00edc6&icon_color=33d900&text_color=daf7dc&bg_color=151515"/>
-</div>
-<br/>
-<div align="center">
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SSahil404&theme=merko&layout=compact" />
-</div>
 
-<h1 align="center">💬 Connect With me </h1>
+### 💬 Connect With me
 <p align="center">
   <a href="https://www.linkedin.com/in/sazzadur-rahman-b69a461b8/">
     <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white">
@@ -55,6 +47,18 @@
     <img src="https://img.shields.io/badge/twitter-%230077D4.svg?&style=flat-square&logo=twitter&logoColor=white">
   </a>
 </p>
+
+<hr>
+
+<div align="center">
+<img width="50%" src="https://github-readme-stats.vercel.app/api?username=SSahil404&&show_icons=true&title_color=00edc6&icon_color=33d900&text_color=daf7dc&bg_color=151515"/>
+</div>
+<br/>
+<div align="center">
+<img width="50%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SSahil404&theme=merko&layout=compact" />
+</div>
+
+
 
 
 
