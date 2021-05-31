@@ -51,11 +51,11 @@
 <hr>
 
 <div align="center">
-<img width="50%" src="https://github-readme-stats.vercel.app/api?username=SSahil404&&show_icons=true&title_color=00edc6&icon_color=33d900&text_color=daf7dc&bg_color=151515"/>
+<img src="https://github-readme-stats.vercel.app/api?username=SSahil404&&show_icons=true&title_color=00edc6&icon_color=33d900&text_color=daf7dc&bg_color=151515"/>
 </div>
 <br/>
 <div align="center">
-<img width="50%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SSahil404&theme=merko&layout=compact" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SSahil404&theme=merko&layout=compact" />
 </div>
 
 
