@@ -1,5 +1,5 @@
 <h1 align="center">
-	 Hi there 👋! I am SSahil
+	<img src="https://readme-typing-svg.herokuapp.com/?lines=Hello,+There!+👋;This+is+SSahil....;Nice+to+see+you!😀&center=true&size=30">
 </h1>
 <br>
 <div align="center">
@@ -52,17 +52,18 @@
 <hr>
 
 <div align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=SSahil404&&show_icons=true&title_color=00edc6&icon_color=33d900&text_color=daf7dc&bg_color=151515"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SSahil404&theme=react&layout=compact" />
 </div>
 <br/>
 <div align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SSahil404&theme=merko&layout=compact" />
+<img alt="SSahil404's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=SSahil404&theme=react"/>
 </div>
 <br/>
 <div align="center">
-<img alt="SSahil404's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=SSahil404&theme=merko"/>
+<img src="https://github-readme-stats.vercel.app/api?username=SSahil404&&show_icons=true&theme=react"/>
 </div>
 
+<!-- title_color=00edc6&icon_color=33d900&text_color=daf7dc&bg_color=151515 -->
 
 
 
