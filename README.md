@@ -1,7 +1,8 @@
-
-# Hi there 👋! I am SSahil
+<h1 align="center">
+	 Hi there 👋! I am SSahil
+</h1>
+<br>
 <div align="center">
-	<br>
 	<img src="https://raw.githubusercontent.com/Aniket965/Aniket965/master/pacman.svg?sanitize=true" width="200" height="200">
 </div>
 
@@ -56,6 +57,10 @@
 <br/>
 <div align="center">
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SSahil404&theme=merko&layout=compact" />
+</div>
+<br/>
+<div align="center">
+<img alt="SSahil404's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=SSahil404&theme=merko"/>
 </div>
 
 
