@@ -52,15 +52,15 @@
 <hr>
 
 <div align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SSahil404&theme=react&layout=compact" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SSazzadur&theme=react&layout=compact" />
 </div>
 <br/>
 <div align="center">
-<img alt="SSahil404's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=SSahil404&theme=react"/>
+<img alt="SSahil404's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=SSazzadur&theme=react"/>
 </div>
 <br/>
 <div align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=SSahil404&&show_icons=true&theme=react"/>
+<img src="https://github-readme-stats.vercel.app/api?username=SSazzadur&&show_icons=true&theme=react"/>
 </div>
 
 <!-- title_color=00edc6&icon_color=33d900&text_color=daf7dc&bg_color=151515 -->
