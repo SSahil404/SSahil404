@@ -35,10 +35,10 @@
   <a href="https://www.linkedin.com/in/sazzadur-rahman-b69a461b8/">
     <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white">
   </a>
-  &nbsp;
+<!--   &nbsp;
   <a href="https://github.com/SSahil404/">
     <img src="https://img.shields.io/badge/Github-%230A0A0A.svg?&style=flat-square&logo=Github&logoColor=white">  
-  </a>
+  </a> -->
   &nbsp;
   <a href="https://www.instagram.com/the_ssahil/">
     <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?&style=flat-square&logo=instagram&logoColor=white">
