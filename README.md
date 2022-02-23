@@ -3,7 +3,7 @@
 </h1>
 <br>
 <div align="center">
-	<img src="https://github.com/SSahil404/SSahil404/blob/master/robo.svg">
+	<img src="https://github.com/SSazzadur/SSazzadur/blob/master/robo.svg">
 </div>
 
 <hr/>
@@ -36,11 +36,11 @@
     <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white">
   </a>
 <!--   &nbsp;
-  <a href="https://github.com/SSahil404/">
+  <a href="https://github.com/SSazzadur/">
     <img src="https://img.shields.io/badge/Github-%230A0A0A.svg?&style=flat-square&logo=Github&logoColor=white">  
   </a> -->
   &nbsp;
-  <a href="https://www.instagram.com/the_ssahil/">
+  <a href="https://instagram.com/sazzadur.0?utm_medium=copy_link">
     <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?&style=flat-square&logo=instagram&logoColor=white">
   </a>
   &nbsp;
@@ -56,7 +56,7 @@
 </div>
 <br/>
 <div align="center">
-<img alt="SSahil404's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=SSazzadur&theme=react"/>
+<img alt="SSazzadur's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=SSazzadur&theme=react"/>
 </div>
 <br/>
 <div align="center">
