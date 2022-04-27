@@ -1,9 +1,6 @@
-<h1 align="center">
-	<img src="https://readme-typing-svg.herokuapp.com/?lines=Hello,+There!+👋;This+is+SSazzadur....;Nice+to+see+you!😀&center=true&size=30">
-</h1>
-<br>
 <div align="center">
-	<img src="https://github.com/SSazzadur/SSazzadur/blob/master/robo.svg">
+	<img src="https://readme-typing-svg.herokuapp.com/?lines=Hello,+There!+👋;This+is+SSazzadur....;Nice+to+see+you!😀&center=true&size=30">
+	<img height="250px" src="https://github.com/SSazzadur/SSazzadur/blob/master/robo.svg">
 </div>
 
 <hr/>
@@ -52,15 +49,15 @@
 <hr>
 
 <div align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SSazzadur&theme=react&layout=compact" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SSazzadur&theme=gotham&layout=compact" />
 </div>
 <br/>
 <div align="center">
-<img alt="SSazzadur's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=SSazzadur&theme=react"/>
+<img alt="SSazzadur's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=SSazzadur&theme=gotham"/>
 </div>
 <br/>
 <div align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=SSazzadur&&show_icons=true&theme=react"/>
+<img src="https://github-readme-stats.vercel.app/api?username=SSazzadur&&show_icons=true&theme=gotham"/>
 </div>
 
 <!-- title_color=00edc6&icon_color=33d900&text_color=daf7dc&bg_color=151515 -->
