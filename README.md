@@ -52,12 +52,13 @@
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SSazzadur&theme=gotham&layout=compact" />
 </div>
 <br/>
-<div align="center">
-<img alt="SSazzadur's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=SSazzadur&theme=gotham"/>
-</div>
-<br/>
-<div align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=SSazzadur&&show_icons=true&theme=gotham"/>
+<div style="display:grid; grid-template-columns: repeat(auto-fit, minmax(350px, 1fr)); gap: 1rem">
+    <div align="center">
+      <img alt="SSazzadur's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=SSazzadur&theme=gotham"/>
+    </div>
+    <div align="center">
+      <img src="https://github-readme-stats.vercel.app/api?username=SSazzadur&&show_icons=true&theme=gotham"/>
+    </div>
 </div>
 
 <!-- title_color=00edc6&icon_color=33d900&text_color=daf7dc&bg_color=151515 -->
