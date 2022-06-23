@@ -5,6 +5,9 @@
 
 <hr/>
 
+### 📂My Resume 
+- [View](https://drive.google.com/file/d/1AYESK63QSU6vIBvX7Dxz4wBy2pP7c31W/view?usp=sharing)
+
 #### 👨🏻‍💻 My Tech Stack:
 <div align="center">
 <img src="https://img.icons8.com/color/48/000000/javascript.png"/>
