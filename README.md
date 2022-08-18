@@ -6,7 +6,7 @@
 <hr/>
 
 ### 📂My Resume 
-- [View](https://drive.google.com/file/d/1WdQVOQACtMgAr-hHE4X5hWvkIzWH820S/view?usp=sharing)
+- [View](https://drive.google.com/file/d/1brA2VZJ7d59CDa10WGCIz9-MYHPzkw62/view?usp=sharing)
 
 ### 🔗My Portfolio
 - [Go](https://sazzadur.herokuapp.com)
