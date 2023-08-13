@@ -3,7 +3,7 @@
 
 
 ### 📂My Resume 
-- [View](https://drive.google.com/file/d/1OLT9PCrsKEV06auOojmZUslZfpTgshUc/view?usp=sharing)
+- [View](https://drive.google.com/file/d/1H0ntmj7CxX8PNfa6oJ_82Dz1h6t-mFCF/view?usp=sharing)
 
 
 ## 🌐 Socials:
