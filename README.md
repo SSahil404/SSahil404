@@ -2,10 +2,6 @@
 🔭 Computer Science Student
 
 
-### 📂My Resume 
-- [View](https://drive.google.com/file/d/1H0ntmj7CxX8PNfa6oJ_82Dz1h6t-mFCF/view?usp=sharing)
-
-
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/sazzadur.0) 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/SazzadurRahman0)
